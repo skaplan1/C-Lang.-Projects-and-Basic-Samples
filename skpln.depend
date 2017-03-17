@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1489712597 source:c:\users\kaplan\desktop\skpln\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+
+1489721634 source:d:\skpln\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+
